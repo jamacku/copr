@@ -1,4 +1,4 @@
-# Copr
+# Copr :-)
 
 [**Project Page**](https://github.com/fedora-copr/copr) |
 [**Documentation**](https://docs.pagure.org/copr.copr/) |

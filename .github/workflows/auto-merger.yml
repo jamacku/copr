@@ -16,7 +16,6 @@ permissions:
 jobs:
   # Get all open PRs
   gather-pull-requests:
-    if: github.repository == 'fedora-copr/copr'
     runs-on: ubuntu-latest
 
     outputs:
